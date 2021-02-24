@@ -19,7 +19,7 @@
     "social":[
       {
         "name":"facebook",
-        "url":"https://www.facebook.com/yakov.kassa/",
+        "url":"https://www.facebook.com/yakov.kassa",
         "className":"fa fa-facebook"
       },
       {
@@ -34,12 +34,12 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yakov-kassa-406636116/",
+        "url":"https://www.linkedin.com/in/yakov-kassa-406636116",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"https://www.instagram.com/yakov_kassa/",
+        "url":"https://www.instagram.com/yakov_kassa",
         "className":"fa fa-instagram"
       },
       {
